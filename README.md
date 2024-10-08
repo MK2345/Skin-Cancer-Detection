@@ -7,4 +7,6 @@ You will find the data sets on the following link: https://www.kaggle.com/compet
 
 
 
-<img src="img.png">
+<img src="img9.png">
+<img src="diagram.png">
+<img src="evaluation.png">
