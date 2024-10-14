@@ -18,4 +18,4 @@ You will find the data sets on the following link: https://www.kaggle.com/compet
 
 ### Evaluation results of the trained CNN
 
-<img src="/imagesevaluation.png">
+<img src="/images/evaluation.png">
