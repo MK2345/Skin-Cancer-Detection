@@ -8,14 +8,14 @@ You will find the data sets on the following link: https://www.kaggle.com/compet
 
 ### It can be seen that the images have different sizes and the data set is extremely unbalanced. 
 
-<img src="img9.png">
+<img src="images/img9.png">
 
 
-<img src="diagram.png">
+<img src="images/diagram.png">
 
-<img src="corr_matrix.png">
+<img src="images/corr_matrix.png">
 
 
 ### Evaluation results of the trained CNN
 
-<img src="evaluation.png">
+<img src="/imagesevaluation.png">
