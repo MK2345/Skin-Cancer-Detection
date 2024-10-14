@@ -8,7 +8,7 @@ You will find the data sets on the following link: https://www.kaggle.com/compet
 
 ### The images vary in size, and the dataset is extremely unbalanced. 
 
-<img src="images/img9.png">
+<img src="images/img9.png" width="75%">
 
 
 <img src="images/diagram.png">
