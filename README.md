@@ -6,7 +6,7 @@ Kaggle hosts several datasets of skin lesion images.
 You will find the data sets on the following link: https://www.kaggle.com/competitions/isic-2024-challenge/data
 
 
-### It can be seen that the images have different sizes and the data set is extremely unbalanced. 
+### The images vary in size, and the dataset is extremely unbalanced. 
 
 <img src="images/img9.png">
 
@@ -16,6 +16,6 @@ You will find the data sets on the following link: https://www.kaggle.com/compet
 <img src="images/corr_matrix.png">
 
 
-### Evaluation results of the trained CNN
+### Evaluation results of the trained CNN are presented below.
 
 <img src="/images/evaluation.png">
