@@ -32,6 +32,6 @@ I may continue to work on this code for my own projects when I have the opportun
 
 <br><br>
 
-### Evaluation results of the trained CNN are presented below
+### Training results of the trained CNN are presented below
 <br>
 <img src="/images/evaluation.png" width="50%">
