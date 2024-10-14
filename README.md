@@ -17,8 +17,7 @@ Unfortunately, I did not submit this project to Kaggle for evaluation.
 ### Future Work
 I may continue to work on this code for my own projects when I have the opportunity.
 
-
-
+<br><br>
 ### The images vary in size, and the dataset is extremely unbalanced
 
 
@@ -30,7 +29,7 @@ I may continue to work on this code for my own projects when I have the opportun
 <!-- <img src="images/corr_matrix.png"> -->
 
 
-
+<br><br>
 
 ### Evaluation results of the trained CNN are presented below
 
