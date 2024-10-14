@@ -18,6 +18,7 @@ Unfortunately, I did not submit this project to Kaggle for evaluation.
 I may continue to work on this code for my own projects when I have the opportunity.
 
 <br>
+
 ### The images vary in size, and the dataset is extremely unbalanced
 <br>
 
