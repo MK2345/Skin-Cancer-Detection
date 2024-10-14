@@ -26,7 +26,7 @@ I may continue to work on this code for my own projects when I have the opportun
 
 <img src="images/diagram.png" width="50%">
 
-<img src="images/corr_matrix.png">
+<!-- <img src="images/corr_matrix.png"> -->
 
 
 ### Evaluation results of the trained CNN are presented below
