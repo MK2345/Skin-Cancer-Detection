@@ -17,9 +17,9 @@ Unfortunately, I did not submit this project to Kaggle for evaluation.
 ### Future Work
 I may continue to work on this code for my own projects when I have the opportunity.
 
-<br><br>
+<br>
 ### The images vary in size, and the dataset is extremely unbalanced
-
+<br>
 
 <img src="images/img9.png" width="50%">
 
@@ -32,5 +32,5 @@ I may continue to work on this code for my own projects when I have the opportun
 <br><br>
 
 ### Evaluation results of the trained CNN are presented below
-
+<br>
 <img src="/images/evaluation.png" width="50%">
