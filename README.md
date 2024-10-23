@@ -22,10 +22,10 @@ I may continue to work on this code for my own projects when I have the opportun
 ### The images vary in size, and the dataset is extremely unbalanced
 <br>
 
-<img src="images/img9.png" width="50%">
+<img src="images/img9.png" width="75%">
 
 
-<img src="images/diagram.png" width="50%">
+<img src="images/diagram.png" width="75%">
 
 <!-- <img src="images/corr_matrix.png"> -->
 
